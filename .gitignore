@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+dist/
+.env
+.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Prisma
+prisma/dev.db
+prisma/*.sqlite
+
+# Puppeteer
+.chromium/
+.cache/
+
+# Build output
+.next/
+out/
+build/
+
+# Test coverage
+coverage/
+
+# Others
+tmp/
+.idea/
+*.swp
